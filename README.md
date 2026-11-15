@@ -1,3 +1,5 @@
+**日本語** | [English](README.en.md)
+
 # Arrow Defense（テープLED × ESP32-S3 SuperMini ほか）
 
 対応ボード：**ESP32-S3 SuperMini（使用中）**、ESP32-C3 SuperMini、Seeeduino XIAO (SAMD21)、**Seeed XIAO nRF52840 / XIAO ESP32C3（充電回路つき・電池で動かす場合）**、ESP32。同じスケッチで動き、ピン番号はボードに合わせて自動で切り替わる。
